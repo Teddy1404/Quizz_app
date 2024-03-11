@@ -29,7 +29,6 @@ const HotTopicsCard = async (props: Props) => {
       </CardHeader>
       <CardContent className="pl-2">
         {/* <WordCloud formattedTopics={formattedTopics} /> */}
-        
        
       </CardContent>
     </Card>
